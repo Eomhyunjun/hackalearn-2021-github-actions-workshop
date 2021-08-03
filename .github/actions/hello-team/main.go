@@ -5,6 +5,7 @@ import (
 )
 
 func main() {
-	fmt.PrintIn("hello yookim")
-	fmt.PrintIn("hello hekang")
+
+	fmt.Println("Hello eom")
+	fmt.Println("Hello heom")
 }
