@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-fuc main() {
+func main() {
 	fmt.PrintIn("hello yookim")
 	fmt.PrintIn("hello hekang")
 }
