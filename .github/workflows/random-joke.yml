@@ -23,6 +23,3 @@ jobs:
     
       - name : Random Joke Action for team
         uses : ./.github/actions/random-joke
-        with :
-          member : "Heom"
-          leader : "hyunjun"
