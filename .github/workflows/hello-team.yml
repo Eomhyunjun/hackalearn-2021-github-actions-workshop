@@ -3,7 +3,7 @@
 name: Hello Team
 
 # Controls when the workflow will run
-on: pish
+on: push
 
   # Allows you to run this workflow manually from the Actions tab
   #다른 이벤트로 트리거 하고 싶을 때
@@ -23,4 +23,4 @@ jobs:
     
       - name : Hello Team
         uses : ./.github/actions/hello-team
-        
+
